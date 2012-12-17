@@ -1,6 +1,7 @@
 <?php
 /*
 	Created by Drew Johnston, 2007, drewjoh.com
+	MassPay added by uWeb Tech 2012, uwebtech.com
 	
 	Please give credit where credit is due. :)
 	
